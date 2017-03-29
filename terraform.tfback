@@ -1,0 +1,3 @@
+#terrafrom.tfvars
+region = "us-west-2"
+#profile = {replace me}
